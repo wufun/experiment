@@ -4,3 +4,9 @@
     height: 100%;
     width: 100%;
 }
+
+.IconWall .anticon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}

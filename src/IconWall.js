@@ -7,6 +7,7 @@ function IconWall (props) {
   const size = window.innerWidth / iconsPerRow
   const style = {
     width: size,
+    height: size,
     fontSize: 'calc(3vw + 3vh)',
     padding: '10px'
   };

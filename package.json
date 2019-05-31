@@ -2,6 +2,7 @@
   "name": "iconwall",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://wufun.github.io/experiment",
   "dependencies": {
     "antd": "^3.19.1",
     "lodash": "^4.17.11",
